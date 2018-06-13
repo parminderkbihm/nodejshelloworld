@@ -13,4 +13,4 @@ var port = process.env.OPENSHIFT_NODEJS_PORT || 8080;
 var port = process.env.PORT || 1337;
 server.listen(port, ipaddress);
 
-console.log("Server running at http://localhost:%d", port);
+console.log("Server running 2at http://localhost:%d", port);
